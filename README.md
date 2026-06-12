@@ -1,8 +1,6 @@
 # Smart-Toll-Gate-System
 An Arduino-based Smart Toll Gate System that automatically detects vehicles using an ultrasonic sensor and controls the gate using a servo motor.
 
-# Smart Toll Gate System
-
 ## Overview
 
 The Smart Toll Gate System is an embedded systems project developed using Arduino, Ultrasonic Sensor, and Servo Motor. The system automatically detects a vehicle approaching the toll gate and opens the barrier without manual intervention.
